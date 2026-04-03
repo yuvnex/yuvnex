@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=200&section=header&text=Hi%20I'm%20Yuvanesh%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20·%20Building%20things%20that%20matter&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=200&section=header&text=Hi%20I'm%20Yuvnesh%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20·%20Building%20things%20that%20matter&descAlignY=58&descAlign=50" width="100%" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=378ADD&center=true&vCenter=true&width=500&lines=Building+elegant+software.;Solving+real-world+problems.;Always+learning%2C+always+shipping.;Java+%2B+React+%3D+💻)
 
@@ -24,7 +24,7 @@
 |---|---|
 | 🌱 Learning | Spring Boot · Cloud Architecture · DSA |
 | 💬 Ask me about | React, Java, JavaScript, Node.js & AWS |
-| 📫 Reach me at | palanivelyuvanesh@gmail.com |
+| 📫 Reach me at | palanivelyuvnesh@gmail.com |
 | ⚡ Fun fact | I debug with `console.log` and I'm proud of it |
 
 ---
@@ -56,12 +56,11 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🤖 [**AI Email Assistant**](https://github.com/Yuvanesh26012006/ai-email-assistant) | Smart email assistant that drafts, summarises & replies to emails using AI. Built with a clean UI and LLM integration. | Python · Streamlit · API |
-| 🔁 [**Recursion Visualizer**](https://github.com/Yuvanesh26012006/recursion-visualizer) | Interactive tool to visualise recursive function calls as animated tree structures. Great for learning DSA concepts. | JavaScript · React · Canvas |
+| 🤖 [**AI Email Assistant**](https://github.com/Yuvnex/ai-email-assistant) | Smart email assistant that drafts, summarises & replies to emails using AI. Built with a clean UI and LLM integration. | Python · Streamlit · API |
+| 🔁 [**Recursion Visualizer**](https://github.com/Yuvnex/recursion-visualizer) | Interactive tool to visualise recursive function calls as animated tree structures. Great for learning DSA concepts. | JavaScript · React · Canvas |
+| 🔁 [**InfoThiranAI**](https://github.com/Yuvnex/InfoThiranAI) | Chrome extension & AI assistant that helps students analyze information, generate smart notes, and understand concepts quickly. Students can improve productivity and learning efficiency. | Chrome Extension · JavaScript · AI · கல்வி & அறிவு |
 
 </div>
-
-<!-- GitHub Pinned Repos (auto-rendered by GitHub) -->
 
 ---
 
@@ -69,20 +68,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuvanesh26012006&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvanesh26012006&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuvnex&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvnex&layout=compact&theme=default&hide_border=true&langs_count=6" />
 
 </div>
 
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvanesh26012006&theme=default&hide_border=true" />
-
-</div>
 
 ---
 
@@ -90,8 +80,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvanesh26012006&theme=minimal&hide_border=true&area=true&color=378ADD&line=378ADD&point=378ADD" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvnex&theme=minimal&hide_border=true&area=true&color=378ADD&line=378ADD&point=378ADD" width="100%" />
 
+</div>
 
 ---
 
@@ -99,13 +90,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvanesh26/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palanivelyuvanesh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuvanesh26012006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvnex/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palanivelyuvnex@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvnex)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuvanesh26012006&style=flat-square&color=378ADD)
+![Profile Views](https://komarev.com/ghpvc/?username=Yuvnex&style=flat-square&color=378ADD)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=100&section=footer" width="100%" />
 
