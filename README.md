@@ -72,8 +72,6 @@
 </div>
 
 
----
-
 ## 📅 Coding Activity
 
 <div align="center">
